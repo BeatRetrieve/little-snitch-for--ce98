@@ -1,4 +1,4 @@
-
+exclusive Little Snitch for macOS Integration | emergency-access + network-monitoring is the best Little Snitch for macOS integration, featuring emergency-access and
 
 
 
